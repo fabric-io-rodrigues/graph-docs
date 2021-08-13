@@ -25,39 +25,19 @@ Graph's application can be opened via SDDP's interface. In the menu bar, search 
 After opening the interface, at first glance, it will be possible to see the following areas:
 
 <div style="text-align:center">
-    <img src="images\GraphInterface_v3.png" width="600"/>
+    <img src="images\GraphIHM_v2.png" width="600"/>
 </div>
 
 Which are:
 
 1. Menu pages
-2. Chart board
-3. Chart options
+2. Chart options
+3. Chart board
+
 
 ### Menu pages
 
 In this part of the interface, it is possible to open PSRIO editor and the charts page.
-
-### Chart board
-
-The chart board is where the charts will be displayed and the user will be able to analyze the output of SDDP. Once the chart is created, it is possible to change its type, add or remove legends, configure the data, download or remove the chart.
-
-#### Changing the chart's type and layout
-
-Once the chart is created, select the button on the top left side of the chart's area:
-
-<div style="text-align:center">
-    <img src="images\ChangeChartTypeLayout.png" width="450"/>
-</div>
-
-In "Chart type" section, several types can be chosen. Choose what is best for you. In "Layout", the legends can be removed or introduced.
-
-#### Configuring, downloading and removing charts
-
-<div style="text-align:center">
-    <img src="images\ChartDownloadConfigDelete.png" width="450"/>
-</div>
-
 
 ### Chart options
 
@@ -85,5 +65,36 @@ To add a new chart, select the "Add chart" button located on the top right side 
 On the top field, a name can be given to the chart. In the button "Variables", the variables to be displayed in the graph can be chosen. Selecting this, another window will be opened:
 
 <div style="text-align:center">
-    <img src="images\VariablesSelectionWindow.png" width="450"/>
+    <img src="images\VariablesSelectionWindow_v2.png" width="450"/>
 </div>
+
+The list highlighted by the red box contains all the available variables that can be displayed in the chart. Select one of them. After doing so, the agents related to those variables will be shown in the table highlighted by the purple box, when the tab "Agents" is selected. If "Macro agents" is selected, the agents of the same type will be agregated into one, and it will be possible to plot agregated variables such as "TotalHydro" and "TotaTherm", for example, which represents total hydroelectric and thermal generations, respectively. After selecting the agents, hit the "Ok" button.
+
+ The next step is to configure the horizon, blocks and scenarios of the data that will appear on the chart. The process of adding the new chart can be finished giving a good title to it. Following these steps, charts like this can be created:
+
+ <div style="text-align:center">
+    <img src="images\ChartExample.png" width="450"/>
+</div>
+
+### Chart board
+
+The chart board is where the charts will be displayed and the user will be able to analyze the output of SDDP. Once the chart is created, it is possible to change its type, add or remove legends, configure the data, download or remove the chart.
+
+#### Changing the chart's type and layout
+
+Once the chart is created, select the button on the top left side of the chart's area:
+
+<div style="text-align:center">
+    <img src="images\ChangeChartTypeLayout.png" width="450"/>
+</div>
+
+In "Chart type" section, several types can be chosen. Choose what is best for you. In "Layout", the legends can be removed or introduced.
+
+#### Configuring, downloading and removing charts
+
+<div style="text-align:center">
+    <img src="images\ChartDownloadConfigDelete.png" width="450"/>
+</div>
+
+
+
