@@ -39,7 +39,7 @@ Which are:
 
 In this part of the interface, it is possible to open PSRIO editor and the charts page.
 
-See more of PSRIO at (https://psrenergy.github.io/psrio-scripts/).
+See more of PSRIO at https://psrenergy.github.io/psrio-scripts/.
 ### Chart options
 
 In chart options, it will be possible to:
