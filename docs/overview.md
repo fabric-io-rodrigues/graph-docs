@@ -74,10 +74,14 @@ Buttons for theme change e layout modification are, respectively, from left to r
 
 ### Adding new charts
 
-To add a new chart, select the "Add chart" button. The following window will be opened:
+To add a new chart, select the "Add chart" button located on the top right side of the interface. The following window will be opened:
 
 <div style="text-align:center">
-    <img src="images\AddChart.png" width="450"/>
+    <img src="images\AddChartWindow_v2.png" width="450"/>
 </div>
 
+On the top field, a name can be given to the chart. In the button "Variables", the variables to be displayed in the graph can be chosen. Selecting this, another window will be opened:
 
+<div style="text-align:center">
+    <img src="images\VariablesSelectionWindow.png" width="450"/>
+</div>
