@@ -5,3 +5,4 @@ logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
 aux_links:
   "PSRIO Scripts on GitHub":
     - "//github.com/psrenergy/graph-docs"
+theme: jekyll-theme-slate
