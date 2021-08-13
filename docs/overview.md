@@ -39,6 +39,7 @@ Which are:
 
 In this part of the interface, it is possible to open PSRIO editor and the charts page.
 
+See more of PSRIO at https://psrenergy.github.io/psrio-scripts/.
 ### Chart options
 
 In chart options, it will be possible to:
@@ -92,9 +93,26 @@ In "Chart type" section, several types can be chosen. Choose what is best for yo
 
 #### Configuring, downloading and removing charts
 
+To download, configure or remove the chart, respectively, from left to right, go to the top right side of the chart:
+
 <div style="text-align:center">
     <img src="images\ChartDownloadConfigDelete.png" width="450"/>
 </div>
 
+* Download button:
+  
+The download button will give two options, as ilustrated below:
+
+<div style="text-align:center">
+    <img src="images\DownloadOptions.png" width="200"/>
+</div>
+
+* Configuration button:
+  
+The configuration button will just reopen the same window used when chart was added for the first time. So it is possible to change the data displayed, after the creation of the chart.
+
+* Delete button
+
+The chart will be deleted from the chart board
 
 
