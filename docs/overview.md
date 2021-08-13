@@ -20,11 +20,13 @@ Graph's application can be opened via SDDP's interface. In the menu bar, search 
     <img src="images\OpeningGraphSDDP_v2.png" width="600"/>
 </div>
 
-The Graph interface will be opened. At first glance, it will be possible to see the following areas:
+The Graph's interface will be opened. At first glance, it will be possible to see the following areas:
 
 <div style="text-align:center">
     <img src="images\GraphInterface_v3.png" width="600"/>
 </div>
+
+Which are:
 
 1. Menu pages
 2. Chart board
@@ -62,11 +64,20 @@ In chart options, it will be possible to:
 * Add new charts to the dashboard
 * Move the charts around the dashboard
 * Update charts data
+* Change theme and dashboard layout
 
 Buttons for theme change e layout modification are, respectively, from left to right, the following:
 
 <div style="text-align:center">
     <img src="images\ThemeLayoutButtons.png" width="100"/>
+</div>
+
+### Adding new charts
+
+To add a new chart, select the "Add chart" button. The following window will be opened:
+
+<div style="text-align:center">
+    <img src="images\AddChart.png" width="450"/>
 </div>
 
 
