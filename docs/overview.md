@@ -20,7 +20,9 @@ Graph's application can be opened via SDDP's interface. In the menu bar, search 
     <img src="images\OpeningGraphSDDP_v2.png" width="600"/>
 </div>
 
-The Graph's interface will be opened. At first glance, it will be possible to see the following areas:
+## Graph's interface main sections
+
+After opening the interface, at first glance, it will be possible to see the following areas:
 
 <div style="text-align:center">
     <img src="images\GraphInterface_v3.png" width="600"/>
@@ -30,17 +32,17 @@ Which are:
 
 1. Menu pages
 2. Chart board
-3. Chart options:
+3. Chart options
 
-## Menu pages
+### Menu pages
 
 In this part of the interface, it is possible to open PSRIO editor and the charts page.
 
-## Chart board
+### Chart board
 
 The chart board is where the charts will be displayed and the user will be able to analyze the output of SDDP. Once the chart is created, it is possible to change its type, add or remove legends, configure the data, download or remove the chart.
 
-### Changing the chart's type and layout
+#### Changing the chart's type and layout
 
 Once the chart is created, select the button on the top left side of the chart's area:
 
@@ -50,14 +52,14 @@ Once the chart is created, select the button on the top left side of the chart's
 
 In "Chart type" section, several types can be chosen. Choose what is best for you. In "Layout", the legends can be removed or introduced.
 
-### Configuring, downloading and removing charts
+#### Configuring, downloading and removing charts
 
 <div style="text-align:center">
     <img src="images\ChartDownloadConfigDelete.png" width="450"/>
 </div>
 
 
-## Chart options
+### Chart options
 
 In chart options, it will be possible to:
 
@@ -72,7 +74,7 @@ Buttons for theme change e layout modification are, respectively, from left to r
     <img src="images\ThemeLayoutButtons.png" width="100"/>
 </div>
 
-### Adding new charts
+#### Adding new charts
 
 To add a new chart, select the "Add chart" button located on the top right side of the interface. The following window will be opened:
 
