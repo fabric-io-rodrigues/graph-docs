@@ -39,7 +39,7 @@ Which are:
 
 In this part of the interface, it is possible to open PSRIO editor and the charts page.
 
-See more of PSRIO at https://psrenergy.github.io/psrio-scripts/.
+See more of PSRIO at (https://psrenergy.github.io/psrio-scripts/).
 ### Chart options
 
 In chart options, it will be possible to:
@@ -113,6 +113,6 @@ The configuration button will just reopen the same window used when chart was ad
 
 * Delete button
 
-The chart will be deleted from the chart board
+The chart will be deleted from the chart board.
 
 
