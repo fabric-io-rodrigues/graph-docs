@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Getting started
 nav_order: 3
 ---
 
