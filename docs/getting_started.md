@@ -34,7 +34,7 @@ The steps are listed below:
 
 Now, let us make some processing over the standard output data using PSRIO. In the previous section, we created a chart with 3 curves, each one describing the generation of each thermal plant of system during the study period. Suppose that we want the aggregated thermal generation, which is not standard, instead of each one separately. We will use PSRIO to make this processing and create a new variable for us, so that we can plot it and analyze the result.
 
-![](gifs/UsingPSRIOGraphIHM.gif)
+![](gifs/CreateRecipe_v1.gif)
 
 
 The steps are listed below:
