@@ -69,7 +69,7 @@ On the top field, a name can be given to the chart. In the button "Variables", t
     <img src="images\VariablesSelectionWindow_v2.png" width="450"/>
 </div>
 
-The list highlighted by the red box contains all the available variables that can be displayed in the chart. Select one of them. After doing so, the agents related to those variables will be shown in the table highlighted by the purple box, when the tab "Agents" is selected. If "Macro agents" is selected, the agents of the same type will be agregated into one, and it will be possible to plot agregated variables such as "TotalHydro" and "TotaTherm", for example, which represents total hydroelectric and thermal generations, respectively. After selecting the agents, hit the "Ok" button.
+The drop-down list highlighted by the red box contains all the available variables that can be displayed in the chart. Select one of them. After doing so, the agents related to those variables will be shown in the table highlighted by the purple box, when the tab "Agents" is selected. If "Macro agents" is selected, the agents of the same type will be agregated into one, and it will be possible to plot agregated variables such as "TotalHydro" and "TotaTherm", for example, which represents total hydroelectric and thermal generations, respectively. After selecting the agents, hit the "Ok" button.
 
  The next step is to configure the horizon, blocks and scenarios of the data that will appear on the chart. The process of adding the new chart can be finished giving a good title to it. Following these steps, charts like this can be created:
 
