@@ -20,7 +20,12 @@ In order to introduce you to our graphing tool, we will demostrate how to create
 
 For our first chart, let us suppose we are interested in visualizing the generations of each thermal plant in the system. So, to create the chart that fulfills out needs, follow the steps showed bellow. 
 
-![](gifs/CreateChart_v2.gif)
+<div style="text-align:center">
+    <video width="700" controls playsinline autoplay muted loop>
+        <source src="gifs/CreateChart_v2.webm" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 The steps are listed below:
 
